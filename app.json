@@ -1,0 +1,12 @@
+{
+  "name": "tiktok",
+  "displayName": "tiktok",
+  "expo": {
+    "name": "tiktok",
+    "slug": "tiktok",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
